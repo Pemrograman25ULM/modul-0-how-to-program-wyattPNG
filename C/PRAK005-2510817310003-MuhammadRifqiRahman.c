@@ -1,6 +1,18 @@
 #include <stdio.h>
 
-int main() {
-    printf("Saya Calon Programmer No.1\n");
-    return 0;
-}
+    int main() {
+        printf("####              ####      ##################\n");
+        printf("#####            #####      ##              ##\n");
+        printf("## ###          ### ##      ##              ##\n");
+        printf("##  ###        ###  ##      ##              ##\n");
+        printf("##   ###      ###   ##      ##           ##\n");
+        printf("##    ###    ###    ##      ##        ##\n");
+        printf("##     ###  ###     ##      ##      ##\n");
+        printf("##      ######      ##      ##    ##\n");
+        printf("##       ####       ##      ##      ##\n");
+        printf("##                  ##      ##         ##\n");
+        printf("##                  ##      ##           ##\n");
+        printf("##                  ##      ##              ##ss\n");
+        getchar();
+        return 0;
+    }

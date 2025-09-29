@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-int main() {
-    printf("Saya Calon Programmer No.1\n");
+int main(){
+    
+    printf("Andi Berkata \"Saya Pasti Bisa\"");
+    getchar();
     return 0;
 }
