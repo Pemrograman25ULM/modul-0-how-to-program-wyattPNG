@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-int main() {
-    printf("Saya Calon Programmer No.1\n");
+int main(){
+    
+    printf("Selamat Pagi, Muhammad Rifqi Rahman\n\nSelamat Siang, Muhammad Rifqi Rahman\n\nSelamat Malam, Muhammad Rifqi Rahman\n");
+    getchar();
     return 0;
 }
