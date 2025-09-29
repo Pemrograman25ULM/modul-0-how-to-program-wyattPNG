@@ -1,1 +1,6 @@
-print("Saya Calon Programmer No.1")
+print("##########################################")
+print("#                                        #")
+print("#        Muhammad Rifqi Rahman           #")
+print("#             2510817310003              #")
+print("#                                        #")
+print("##########################################")

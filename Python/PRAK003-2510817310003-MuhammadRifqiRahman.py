@@ -1,1 +1,1 @@
-print("Saya Calon Programmer No.1")
+print("Andi Berkata \"Saya Pasti Bisa\"")
